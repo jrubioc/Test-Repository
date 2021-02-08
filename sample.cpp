@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
-    cout << "Hello Git" << endl;
+    cout << "Hello GitHub" << endl;
+    cout << "BITCOIN" << endl;
     return 0;
 }
